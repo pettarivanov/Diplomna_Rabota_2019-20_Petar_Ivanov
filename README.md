@@ -1,11 +1,9 @@
 # Diplomna_Rabota_2019-20_Petar_Ivanov
-In this repository, I will upload my project on indoor positioning using BLE and my progress on it along with the documentation.
+In this branch I will upload the code I use along the way.
 
-Hope it helps somebody down the way.
 
-Any way, have a nice day, I guess.
 
-This is the first code I programmed, kinda./*
+This is the first code I programmed for this project.
   Blink
 
   Turns an LED on for one second, then off for one second, repeatedly.
